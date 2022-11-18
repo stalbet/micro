@@ -1,0 +1,66 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Aaron’s Microblog",
+	"icon": "https://micro.blog/Rongwrong/avatar.jpg",
+	"home_page_url": "https://rongwrong.micro.blog/",
+	"feed_url": "https://rongwrong.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://rongwrong.micro.blog/2022/11/18/i-think-ill.html",
+				
+				"content_html": "<p>I think I’ll just watch Twitter from micro.blog. It’ll be just fine from this distance.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I think I’ll just watch Twitter from micro.blog. It’ll be just fine from this distance.\n\n<img src=\"uploads/2022/bc9541c780.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"date_published": "2022-11-18T07:23:00+02:00",
+				"url": "https://rongwrong.micro.blog/2022/11/18/i-think-ill.html"
+			},
+			{
+				"id": "http://rongwrong.micro.blog/2022/11/16/meir-sternberg-was.html",
+				
+				"content_html": "<p><a href=\"https://www.amazon.com/Poetics-Biblical-Narrative-Ideological-Literature/dp/0253204534\">Meir Sternberg</a> was right and <a href=\"https://www.amazon.com/Art-Biblical-Narrative-Robert-Alter/dp/0465022553\">Robert Alter</a> was wrong: The difference between fiction and non-fiction is truth <em>claim</em>.</p>\n<p>Biblical narrative is non-fiction because it <em>claims</em> to be true, regardless of whether it is actually true. It&rsquo;s a simple, single criterion.📚</p>\n",
+				"content_text": "[Meir Sternberg](https://www.amazon.com/Poetics-Biblical-Narrative-Ideological-Literature/dp/0253204534) was right and [Robert Alter](https://www.amazon.com/Art-Biblical-Narrative-Robert-Alter/dp/0465022553) was wrong: The difference between fiction and non-fiction is truth _claim_.\n\nBiblical narrative is non-fiction because it _claims_ to be true, regardless of whether it is actually true. It's a simple, single criterion.📚 \n",
+				"date_published": "2022-11-16T08:24:07+02:00",
+				"url": "https://rongwrong.micro.blog/2022/11/16/meir-sternberg-was.html"
+			},
+			{
+				"id": "http://rongwrong.micro.blog/2022/11/15/interesting-post-by.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://richardhanania.substack.com/p/the-overman-cuts-people-off-in-traffic\">post by Richard Hanania on early and late mergers in traffic</a>. He gives three reasons for early merging. The third applies to me: social conformity/cowardice.</p>\n<p>But what I fear is people <em>wrongly</em> thinking I’m selfish/antisocial when I haven’t been, not when I have been.</p>\n",
+				"content_text": "Interesting [post by Richard Hanania on early and late mergers in traffic](https://richardhanania.substack.com/p/the-overman-cuts-people-off-in-traffic). He gives three reasons for early merging. The third applies to me: social conformity/cowardice.\n\nBut what I fear is people _wrongly_ thinking I’m selfish/antisocial when I haven’t been, not when I have been.\n",
+				"date_published": "2022-11-15T16:17:01+02:00",
+				"url": "https://rongwrong.micro.blog/2022/11/15/interesting-post-by.html"
+			},
+			{
+				"id": "http://rongwrong.micro.blog/2022/11/14/microblog-in-the.html",
+				
+				"content_html": "<p>Micro.blog in the streets, Twitter in the sheets</p>\n",
+				"content_text": "Micro.blog in the streets, Twitter in the sheets\n",
+				"date_published": "2022-11-14T06:14:21+02:00",
+				"url": "https://rongwrong.micro.blog/2022/11/14/microblog-in-the.html"
+			},
+			{
+				"id": "http://rongwrong.micro.blog/2022/11/12/102817.html",
+				
+				"content_html": "<p>Finished reading <a href=\"https://cup.columbia.edu/book/the-shape-of-sex/9780231551366\">The Shape of Sex: Nonbinary Gender from Genesis to the Renaissance</a> by Leah DeVun.</p>\n<p>Fascinating history of theological, medical, and social questions involved in classifying people by sex, as conceptions of sex evolved from late antiquity through the Middle Ages📚</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Finished reading [The Shape of Sex: Nonbinary Gender from Genesis to the Renaissance](https://cup.columbia.edu/book/the-shape-of-sex/9780231551366) by Leah DeVun.\n\nFascinating history of theological, medical, and social questions involved in classifying people by sex, as conceptions of sex evolved from late antiquity through the Middle Ages📚\n\n\n<img src=\"https://rongwrong.micro.blog/uploads/2022/9ce24571ef.jpg\" width=\"350\" height=\"353\" alt=\"\">\n",
+				"date_published": "2022-11-12T10:28:17+02:00",
+				"url": "https://rongwrong.micro.blog/2022/11/12/102817.html"
+			},
+			{
+				"id": "http://rongwrong.micro.blog/2022/11/12/heres-an-interesting.html",
+				
+				"content_html": "<p>Here’s an <a href=\"https://link.springer.com/epdf/10.1007/s10508-022-02467-5?sharing_token=gTPNUCpXVCqq7WzMU2n7_Pe4RwlQNchNByi7wbcMAY5rplxPSeiwUBnON7599x-nN5xQx3FeH6V32q5aqBxbVuS5DPZOVGgLXeaOlOZr6g9AUNJzY-ZzYeSxjDmC8pWV-eEP8Cf6sGBgLDN2wTMUE2QuuKXpbM2Z_ZjOphK9NwI=&amp;error=cookies_not_supported&amp;code=f86bdd87-822f-4e1f-aa30-9368441a90dc\">interesting article by Harvard biology lecturer Carole Hooven</a> on the hysterical reaction to comments she made about biological sex.</p>\n<p>I think Hooven’s conception of biological sex is wrong philosophically, but there’s no excuse for the reaction described in the article.</p>\n<p>Here’s the fundamental issue in the dispute, which is rarely stated explicitly: Hooven claims that her concept of sex, gamete type, is the <em>only</em> legitimate concept of sex. I don’t think anyone seriously denies that her concept is <em>a</em> legitimate concept of biological sex. Her opponents just argue there are other legitimate sex concepts as well (e.g., chromosomes).</p>\n<p>As far as I know, Hooven has never actually defended her claim, except once in her classroom, defending it against Harvard professor Sarah Richardson. Richardson argues for sex contextualism.</p>\n<p>And as far as I know, no other scientist or philosopher has defended that “monist” claim, either in print or on the internet. They just repeatedly assert it without argument.</p>\n<p>But none of that matters to the scandal at Harvard that’s described in the article, and which explains why Hooven is not currently teaching. There’s no excuse for suppressing her scholarly opinion.</p>\n",
+				"content_text": "Here’s an [interesting article by Harvard biology lecturer Carole Hooven](https://link.springer.com/epdf/10.1007/s10508-022-02467-5?sharing_token=gTPNUCpXVCqq7WzMU2n7_Pe4RwlQNchNByi7wbcMAY5rplxPSeiwUBnON7599x-nN5xQx3FeH6V32q5aqBxbVuS5DPZOVGgLXeaOlOZr6g9AUNJzY-ZzYeSxjDmC8pWV-eEP8Cf6sGBgLDN2wTMUE2QuuKXpbM2Z_ZjOphK9NwI=&error=cookies_not_supported&code=f86bdd87-822f-4e1f-aa30-9368441a90dc) on the hysterical reaction to comments she made about biological sex.\n\nI think Hooven’s conception of biological sex is wrong philosophically, but there’s no excuse for the reaction described in the article.\n\nHere’s the fundamental issue in the dispute, which is rarely stated explicitly: Hooven claims that her concept of sex, gamete type, is the _only_ legitimate concept of sex. I don’t think anyone seriously denies that her concept is _a_ legitimate concept of biological sex. Her opponents just argue there are other legitimate sex concepts as well (e.g., chromosomes).\n\nAs far as I know, Hooven has never actually defended her claim, except once in her classroom, defending it against Harvard professor Sarah Richardson. Richardson argues for sex contextualism. \n\nAnd as far as I know, no other scientist or philosopher has defended that “monist” claim, either in print or on the internet. They just repeatedly assert it without argument.\n\nBut none of that matters to the scandal at Harvard that’s described in the article, and which explains why Hooven is not currently teaching. There’s no excuse for suppressing her scholarly opinion.\n",
+				"date_published": "2022-11-12T09:31:51+02:00",
+				"url": "https://rongwrong.micro.blog/2022/11/12/heres-an-interesting.html"
+			},
+			{
+				"id": "http://rongwrong.micro.blog/2022/11/11/085940.html",
+				
+				"content_html": "<p><em>Ride the High Country</em> (1962, dir. Sam Peckinpah) has gotta be one of the best Westerns ever. One of the few movies where the unequivocally good main character is just as deep and interesting as the morally ambiguous one. In <em>that</em> way even better than <em>The Wild Bunch</em>?🍿</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "_Ride the High Country_ (1962, dir. Sam Peckinpah) has gotta be one of the best Westerns ever. One of the few movies where the unequivocally good main character is just as deep and interesting as the morally ambiguous one. In _that_ way even better than _The Wild Bunch_?🍿\n\n<img src=\"uploads/2022/abb40dcb21.jpg\" width=\"300\" height=\"169\" alt=\"\">\n",
+				"date_published": "2022-11-11T08:59:40+02:00",
+				"url": "https://rongwrong.micro.blog/2022/11/11/085940.html"
+			}
+	]
+}
