@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://rongwrong.micro.blog/2022/12/03/me-write-a.html",
+				
+				"content_html": "<p>Me: Write a typical micro.blog post</p>\n<p>GPT-3:</p>\n<blockquote>\n<p>Hey everyone! Today was a great day. I had the chance to get some fresh air and go for a nice long walk. It was a great way to clear my head and enjoy some time outside. Hope everyone had a great day too! #goodvibes #positivethoughts</p>\n</blockquote>\n",
+				"content_text": "Me: Write a typical micro.blog post \n\nGPT-3:\n> Hey everyone! Today was a great day. I had the chance to get some fresh air and go for a nice long walk. It was a great way to clear my head and enjoy some time outside. Hope everyone had a great day too! #goodvibes #positivethoughts\n",
+				"date_published": "2022-12-03T15:58:31+02:00",
+				"url": "https://rongwrong.micro.blog/2022/12/03/me-write-a.html"
+			},
+			{
+				"id": "http://rongwrong.micro.blog/2022/12/03/im-not-sure.html",
+				
+				"content_html": "<p>I’m not sure GPT-3 really understands the concept of parody.</p>\n<p>Write a parody of “Dulce et Decorum Est” by Wilfred Owen.</p>\n<blockquote>\n<p>Dulce et Decorum Est,\nTo laugh and joke and jest,\nTo make a fool of life,\nAnd never take a rest.</p>\n</blockquote>\n<blockquote>\n<p>The gas and bombs and shells,\nThe trenches and the smells,\nThe mud and blood and gore,\nWe laugh and laugh some more.</p>\n</blockquote>\n<blockquote>\n<p>The soldiers in the line,\nTheir faces so sublime,\nTheir eyes so full of fear,\nWe laugh and laugh and jeer.</p>\n</blockquote>\n<blockquote>\n<p>The generals in their tents,\nTheir orders so intense,\nThe plans they make so grand,\nWe laugh and laugh and stand.</p>\n</blockquote>\n<blockquote>\n<p>The war that never ends,\nThe battles that transcend,\nThe death and pain and strife,\nWe laugh and laugh for life.</p>\n</blockquote>\n",
+				"content_text": "I’m not sure GPT-3 really understands the concept of parody.\n\nWrite a parody of “Dulce et Decorum Est” by Wilfred Owen.\n\n>Dulce et Decorum Est,\n>To laugh and joke and jest,\n>To make a fool of life,\n>And never take a rest.\n\n>The gas and bombs and shells,\nThe trenches and the smells,\nThe mud and blood and gore,\nWe laugh and laugh some more.\n \n>The soldiers in the line,\nTheir faces so sublime,\nTheir eyes so full of fear,\nWe laugh and laugh and jeer.\n\n>The generals in their tents,\nTheir orders so intense,\nThe plans they make so grand,\nWe laugh and laugh and stand.\n\n>The war that never ends,\nThe battles that transcend,\nThe death and pain and strife,\nWe laugh and laugh for life.\n",
+				"date_published": "2022-12-03T14:03:34+02:00",
+				"url": "https://rongwrong.micro.blog/2022/12/03/im-not-sure.html"
+			},
+			{
+				"id": "http://rongwrong.micro.blog/2022/12/02/muriel-spark-ive.html",
+				
+				"content_html": "<p>Muriel Spark 📚 I’ve read, ranked (not to be taken seriously):</p>\n<ol>\n<li>The Prime of Miss Jean Brodie</li>\n<li>Loitering with Intent</li>\n<li>The Girls of Slender Means</li>\n<li>The Mandelbaum Gate</li>\n<li>The Driver’s Seat</li>\n<li>The Public Image</li>\n<li>A Far Cry From Kensington</li>\n<li>Memento Mori</li>\n<li>Not to Disturb</li>\n</ol>\n",
+				"content_text": "Muriel Spark 📚 I’ve read, ranked (not to be taken seriously):\n\n1. The Prime of Miss Jean Brodie\n2. Loitering with Intent\n3. The Girls of Slender Means\n4. The Mandelbaum Gate\n5. The Driver’s Seat\n6. The Public Image\n7. A Far Cry From Kensington\n8. Memento Mori\n9. Not to Disturb \n",
+				"date_published": "2022-12-02T15:10:47+02:00",
+				"url": "https://rongwrong.micro.blog/2022/12/02/muriel-spark-ive.html"
+			},
+			{
+				"id": "http://rongwrong.micro.blog/2022/12/02/i-live-near.html",
+				
+				"content_html": "<p>I live near a daycare center. I really enjoy the sound of little children playing, knowing that someone else is responsible for watching them.</p>\n<p>It’s like that wonderful feeling a new parent gets when he hears someone else’s child crying and it registers, “Not my responsibility!”</p>\n",
+				"content_text": "I live near a daycare center. I really enjoy the sound of little children playing, knowing that someone else is responsible for watching them.\n\nIt’s like that wonderful feeling a new parent gets when he hears someone else’s child crying and it registers, “Not my responsibility!”\n",
+				"date_published": "2022-12-02T11:19:29+02:00",
+				"url": "https://rongwrong.micro.blog/2022/12/02/i-live-near.html"
+			},
+			{
 				"id": "http://rongwrong.micro.blog/2022/11/29/chantal-mouffe-on.html",
 				"title": "Chantal Mouffe on the moralizing “good democrats”",
 				"content_html": "<p>This is well said by Chantal Mouffe on the “good democrats” who substitute moralizing for politics in their response to what they call the “extreme right”. Published in 2005, obviously drawing on Carl Schmitt, still very relevant today.</p>\n<blockquote>\n<p>As we saw earlier, the dominant discourse announces the end of the adversarial model of politics and the advent of a consensual politics beyond left and right. However, politics always entails an us/ them distinction. This is why the consensus advocated by the defenders of the ‘non-partisan democracy’ cannot exist without drawing a frontier and defining an exterior, a &lsquo;them&rsquo; which assures the identity of the consensus and secures the coherence of the ‘us'. To put it in another way, the consensus at the centre, which is supposed to include everybody in our post-political societies, cannot exist without the establishment of a frontier, because no consensus - or no common identity, for that matter - can exist without a frontier. There cannot be an &lsquo;us&rsquo; without a &lsquo;them&rsquo;, and the very identity of a group depends on the existence of a &lsquo;constitutive outside’. So the us of the ‘good democrats&rsquo; needs to be secured by the determination of a &lsquo;them&rsquo;. Nowadays the ‘them' is provided by what is designated as the &lsquo;extreme right’. This term is used in a very undefined way to refer to an amalgam of groups and parties whose characteristics and objectives are extremely diverse and it covers a wide spectrum which goes from fringe groups of extremists, skinheads and neo-nazis to the authoritarian right and a variety of right-wing populist parties.</p>\n</blockquote>\n<blockquote>\n<p>Such a heterogeneous construct is of course useless to grasp the nature and causes of the new forms of right-wing politics. But it is very useful to secure the identity of the &lsquo;good democrats’ and to procure a positive image of the post-political consensus. It is clear that, since politics has supposedly become &lsquo;non-adversarial&rsquo;, the &lsquo;them&rsquo; which is necessary to make possible the &lsquo;us&rsquo; of the good democrats cannot be envisaged as a political adversary, and the frontier has to be drawn in the moral register. So, to draw the frontier between the &lsquo;good democrats and the &lsquo;evil extreme-right&rsquo; is very convenient, since the them&rsquo; can now be considered as a sort of moral disease which needs to be condemned morally, not fought politically. This is why no attempt is made to try to understand the reasons for its existence - an understanding, in any case, made impossible by the amalgam on which the very notion of &lsquo;extreme-right&rsquo; is based. Moreover, attempts at understanding are deemed suspect, and perceived as a move towards condoning something which is morally unacceptable. As a consequence, moral condemnation and the establishment of a cordon sanitaire have become the dominant answers to the rise of right-wing populist movements.</p>\n</blockquote>\n<blockquote>\n<p>The increasing moralisation of political discourse that we are witnessing goes hand in hand with the dominant post-political perspective. Far from indicating a new stage in the triumphant march of democracy, such a phenomenon represents a very negative development. Let&rsquo;s not misunderstand my point. It is not my intention to defend Realpolitik and to deny that normative concerns should play a role in politics. But there is a big difference between morality and moralism, which limits itself to the denunciation of evil in others. Yet today&rsquo;s good democrats are so confident that they have the truth, and that their mission is to impose it on others, that they refuse to engage in debate with those who disagree.</p>\n</blockquote>\n<blockquote>\n<p>It is no doubt easier to present them as a moral enemy, to be destroyed and eradicated, instead of having to envisage them as adversaries in the political terrain.</p>\n</blockquote>\n",
@@ -26,7 +58,7 @@
 				"id": "http://rongwrong.micro.blog/2022/11/24/so-this-thing.html",
 				
 				"content_html": "<p>So this thing about the smell called “zankha” is going around Twitter. I think I’ve noticed it too!</p>\n<p>I never really paid attention to it though. Dunno if I can detect it reliably, maybe gotta do some blind experiments.</p>\n<p>Also 23andMe says I’m 1.2% Levantine. Hmm…🤔</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So this thing about the smell called “zankha” is going around Twitter. I think I’ve noticed it too!\n\nI never really paid attention to it though. Dunno if I can detect it reliably, maybe gotta do some blind experiments.\n\nAlso 23andMe says I’m 1.2% Levantine. Hmm…🤔\n\n<img src=\"uploads/2022/30eb927477.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "So this thing about the smell called “zankha” is going around Twitter. I think I’ve noticed it too!\n\nI never really paid attention to it though. Dunno if I can detect it reliably, maybe gotta do some blind experiments.\n\nAlso 23andMe says I’m 1.2% Levantine. Hmm…🤔\n\n<img src=\"https://rongwrong.micro.blog/uploads/2022/30eb927477.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-24T05:30:07+02:00",
 				"url": "https://rongwrong.micro.blog/2022/11/24/so-this-thing.html"
 			},
@@ -42,7 +74,7 @@
 				"id": "http://rongwrong.micro.blog/2022/11/21/obligatory-sunset-pic.html",
 				
 				"content_html": "<p>Obligatory sunset pic</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Obligatory sunset pic\n\n<img src=\"uploads/2022/5b28066263.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Obligatory sunset pic\n\n<img src=\"https://rongwrong.micro.blog/uploads/2022/5b28066263.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-11-21T16:58:11+02:00",
 				"url": "https://rongwrong.micro.blog/2022/11/21/obligatory-sunset-pic.html"
 			},
@@ -98,7 +130,7 @@
 				"id": "http://rongwrong.micro.blog/2022/11/12/102817.html",
 				
 				"content_html": "<p>Finished reading <a href=\"https://cup.columbia.edu/book/the-shape-of-sex/9780231551366\">The Shape of Sex: Nonbinary Gender from Genesis to the Renaissance</a> by Leah DeVun.</p>\n<p>Fascinating history of theological, medical, and social questions involved in classifying people by sex, as conceptions of sex evolved from late antiquity through the Middle Ages📚</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finished reading [The Shape of Sex: Nonbinary Gender from Genesis to the Renaissance](https://cup.columbia.edu/book/the-shape-of-sex/9780231551366) by Leah DeVun.\n\nFascinating history of theological, medical, and social questions involved in classifying people by sex, as conceptions of sex evolved from late antiquity through the Middle Ages📚\n\n\n<img src=\"uploads/2022/9ce24571ef.jpg\" width=\"350\" height=\"353\" alt=\"\">\n",
+				"content_text": "Finished reading [The Shape of Sex: Nonbinary Gender from Genesis to the Renaissance](https://cup.columbia.edu/book/the-shape-of-sex/9780231551366) by Leah DeVun.\n\nFascinating history of theological, medical, and social questions involved in classifying people by sex, as conceptions of sex evolved from late antiquity through the Middle Ages📚\n\n\n<img src=\"https://rongwrong.micro.blog/uploads/2022/9ce24571ef.jpg\" width=\"350\" height=\"353\" alt=\"\">\n",
 				"date_published": "2022-11-12T10:28:17+02:00",
 				"url": "https://rongwrong.micro.blog/2022/11/12/102817.html"
 			},
